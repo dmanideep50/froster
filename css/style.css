@@ -121,7 +121,7 @@ border-radius:3px;}
 .content-part-3-right-h4{ font-weight:600; color:rgb(22, 18, 18); padding:0px;}
 .margin_5{ margin:5px 0px; float:left;}
 .margin_p3{ margin:10px 0px 5px;}
-.price{color:rgb(241, 106, 106); padding:5px 0px; font-weight:bold; font-size:15px;}
+.price{color:rgb(24, 20, 235); padding:5px 0px; font-weight:bold; font-size:15px;}
 .green{ color:#7db549; font-weight:bold; font-size:16px;}
 .order-now{ color:rgb(23, 15, 15); background:#7db549; padding:5px 15px; border-radius:2px; text-decoration:none; margin:5px auto;}
 .order-now:hover{background:#689242;}
@@ -135,7 +135,7 @@ border-radius:3px;}
 /****** End Content Part 3 ********/
 
 /****** Start Footer ********/
-.footer{padding:20px 0px; background:rgb(230, 40, 40);}
+.footer{padding:20px 0px; background:rgb(220, 227, 8);}
 .footer-parts-h3{ font-size:18px; font-weight:600; color:#FFF; padding:10px 0px;}
 .footer-parts-p{ color:#000; line-height:24px; text-align:justify; color:#FFF;}
 .footer-icons{list-style:none;}
